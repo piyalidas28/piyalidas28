@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyalidas28
 - 👀 I’m interested in all things data
-- 🌱 I’m currently learning AI/ML applications
+- 🌱 I’m currently working to innovate various AI/ML applications
 - 💞️ I’m looking to collaborate on product innovation using the power of data
 - 📫 Reach me at piyalidas.iitkgp@gmail.com
 - 😄 Pronouns: She/Her
